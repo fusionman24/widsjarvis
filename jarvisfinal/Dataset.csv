@@ -1,0 +1,52 @@
+Speech,Intent
+send mail,Send Email
+send email,Send Email
+hey jarvis send mail,Send Email
+mind to send a mail?,Send Email
+email,Send Email
+mind to send a email?,Send Email
+compose a mail,Send Email
+draft a mail,Send Email
+please send a mail,Send Email
+send a message,Send Email
+set reminder,Set Reminder
+remind me,Set Reminder
+give me a heads up,Set Reminder
+hey jarvis set reminder,Set Reminder
+jarvis remind me to,Set Reminder
+make sure I don’t forget to,Set Reminder
+create a reminder,Set Reminder
+set a reminder,Set Reminder
+please remind me to ,Set Reminder
+Hey search Google for,Search Google
+Can you look up Google for,Search Google
+Can you search Google for,Search Google
+Jarvis Search Google for,Search Google
+According to Google,Search Google
+Check Google for,Search Google
+Please look up Google for,Search Google
+Can you Google for,Search Google
+Can you search for,Search Google
+Look up the internet for,Search Google
+Jarvis search for,Search Google
+Please search Google for,Search Google
+Create a note,Create List
+Please Create a note,Create List
+Mind to create a note?,Create List
+Hey note it up please,Create List
+Create a list,Create List
+Jarvis can you create a note for me?,Create List
+Jarvis make a note of it,Create List
+Jarvis create a list ,Create List
+Hi Jarvis,Greetings
+Hello Jarvis,Greetings
+Good morning,Greetings
+Good afternoon,Greetings
+Good evening,Greetings
+"Good night, Jarvis",Greetings
+How are you?,Greetings
+What's up? ,Greetings
+How's life?,Greetings
+"Good morning, Jarvis",Greetings
+"Good afternoon, Jarvis",Greetings
+"Good evening, Jarvis",Greetings
